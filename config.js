@@ -1,0 +1,4 @@
+export default {
+    TELEGRAM_BOT_TOKEN: '7942712425:AAFcLIF3CdshgpuU84xghBOtJAr_RW7_D6M',
+    ALCHEMY_API_KEY: 'U7U2wi66roOLtXTQGLBaROpHHd__qamO'
+}
